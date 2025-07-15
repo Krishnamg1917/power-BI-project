@@ -12,8 +12,9 @@ This Power BI dashboard explores customer segmentation and banking behavior for 
 - `PowerBI_Project_Task.pbix`: Main dashboard file
 - `P1-UK-Bank-Customers.csv` & `blockbusters.csv`: Datasets
 - `Task 2.pdf`: Problem statement
-- `visuals/`: PNG snapshots of the dashboard visuals
+- `visuals`: PNG snapshots of the dashboard visuals
 
 ### 🖼 Visual Preview:
 
 ![Customer Segmentation](PowerBI/visuals/customer_segmentation.png)
+![Revenue Insights](PowerBI/visuals/revenue_insights.jpg)
