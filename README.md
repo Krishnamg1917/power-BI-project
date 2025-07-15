@@ -17,7 +17,7 @@ This Power BI dashboard explores customer segmentation and banking behavior for 
 ### 🖼 Power BI Visuals
 
 #### 🔹 Customer Segmentation Dashboard  
-![Customer Segmentation](PowerBI/customer_segmentation.png)
+![Customer Segmentation](power-BI-project/customer_segmentation.png)
 
-#### 🔹 Revenue Trend & Genre Insights  
-![Revenue Trend](PowerBI/revenue_trend.png)
+#### 🔹 Blockbuster Revenue Trend & Genre Insights  
+![Revenue Trend](power-BI-project/revenue_trend.png)
